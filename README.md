@@ -6,3 +6,7 @@ The scripts provide a menu-driven interface, as well as provide several function
 Download all the files.
 To start the menu-driven interface for APG, edit the location of the module
 Execute the script smapg.rb
+
+# Script to manage disk management on Linux
+Download the module files (didatacommon) 
+Execute the script sm_diskmgmt.rb for a menu-driven interface to manage disk/LVM on your host
